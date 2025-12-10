@@ -1,7 +1,7 @@
 
 
 
-### Olá! Eu me chamo Rian Willian, sou estudante de programação e desenvolvedor back-end!
+### Olá! Eu me chamo Rian Willian, sou estudante de programação com foco em Desenvolvimento Web!
 
 [![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rianwp.json/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-willian-831002230/)
