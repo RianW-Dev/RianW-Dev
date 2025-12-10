@@ -1,18 +1,92 @@
+# 👨‍💻 Rian Willian 
+
+**`Desenvolvedor Web`**
+
+Me chamo Rian Willian, tenho 23 anos, sou natural do Pernambuco. Conclui o ensino médio em 2020, e atualmente estou cursando Análise e Desenvolvimento de Sistemas, na Unicesumar. Sou apaixonado por programação e tecnologias no geral!
+
+---
+
+### 💻 Linguagens e Tecnologias
+
+
+ <img 
+    align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+ />
+
+ 
+<img 
+     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+
+
+ <img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
 
 
 
-### Olá! Eu me chamo Rian Willian, sou estudante de programação com foco em Desenvolvimento Web!
+ <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
 
-[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rianwp.json/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-willian-831002230/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RianW-Dev&show_icons=true&theme=onedark)
+ <img
+    align="left"
+    alt="Postgresql"
+    title="Postgresql"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  />
 
 
-## Tecnologias que eu uso no meu dia
-[![Skills](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whit)]
-[![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
-[![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
+  <img 
+    align="left"
+    alt="Sqlite"
+    title="Sqlite"
+    width="30px"
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 
+ <br/>
+<br/>
+
+          
+          
+          
+          
+          
+
+
+          
 
